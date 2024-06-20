@@ -7,6 +7,6 @@ public class Main {
                 lowestNumber = number;
             }
         }
-        System.out.println("The lowest number in the array is: " + lowestNumber);
+        System.out.println(lowestNumber);
     }
 }
